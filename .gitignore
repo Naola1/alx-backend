@@ -1,0 +1,11 @@
+# Redis
+dump/
+redis-6.0.10*
+*.pid.lock
+
+# npm
+node_modules/
+npm-debug.log*
+.npm/
+*.tgz
+.yarn-integrity
